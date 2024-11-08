@@ -1,6 +1,12 @@
 
-import matplotlib.pyplot as plt
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov  7 09:34:01 2024
 
+@author: Leonardo Voltolini
+"""
+
+import matplotlib.pyplot as plt
 
 from ._generic_model import GenericModel
 
