@@ -257,7 +257,7 @@ class sklearnClassifier (GenericModel):
         ax.set_ylabel('Fault Probability')
         ax.set_title('System Deterioration Monitoring')
         
-        return ax
+        
         
         
         
